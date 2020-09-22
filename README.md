@@ -1,2 +1,3 @@
 # HelloWorld
-first repo
+first repo on git
+tutrials example
